@@ -1,7 +1,17 @@
 # homebridge-http-lux
-Supports http ambient light sensor devices on the Homebridge platform. Additional hardware required.
-This is a modified version of the https://github.com/metbosch/homebridge-http-temperature plugin.
-This version only supports the light sensor. MAX lightlevel is set to 800.
+Supports HomeWizard Wifi P1 devices on the Homebridge platform. Additional hardware required.
+This is a modified version of the https://github.com/crashtestoz/homebridge-http-lux plugin.
+This version only supports the light sensor. Lightlevel is the amount of watts you are returning or receiving.
+
+This does not work yet. It is in Development.
+
+
+
+
+
+
+
+FROM PREVIOUS PLUGIN
 
 # Installation
 
