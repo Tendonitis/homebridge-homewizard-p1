@@ -1,21 +1,21 @@
 {
-  "name": "homebridge-http-lux",
-  "version": "0.6.0",
-  "description": "http light sensor plugin for homebridge. Requires additional hardware.",
+  "name": "homebridge-homewizard-p1",
+  "version": "0.0.1",
+  "description": "Homewizard p1 plugin for homebridge.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/crashtestoz/homebridge-http-lux.git"
+    "url": "git://github.com/tendonitis/homebridge-homewizard-p1.git"
   },
   "keywords": [
     "homebridge-plugin"
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/crashtestoz/homebridge-http-lux/issues"
+    "url": "https://github.com/tendonitis/homebridge-homewizard-p1/issues"
   },
   "engines": {
     "node": ">=0.12.0",
