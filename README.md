@@ -1,9 +1,12 @@
-# homebridge-http-lux
+# homebridge-homewizard-p1
+
+This does not work yet. It is in Development.
+
 Supports HomeWizard Wifi P1 devices on the Homebridge platform. Additional hardware required.
 This is a modified version of the https://github.com/crashtestoz/homebridge-http-lux plugin.
 This version only supports the light sensor. Lightlevel is the amount of watts you are returning or receiving.
 
-This does not work yet. It is in Development.
+
 
 
 
